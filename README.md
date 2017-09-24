@@ -8,7 +8,7 @@ Many solutions are available on the Internet sites but since Apple introduced th
 
 This document provides the directions to switch the DVDPlayer app to restrict playing from INTERNAL optical drives to EXTERNAL ones. For use cases where the optical drives being actively used are both internal and external, this procedure will really not help. In that case a different application would be a better choice. The VLC app seems to handle these cases quite well.
 
-If you wnat to use Apple's DVD Player (download link here) or any third party application doesn't work give a try to my researches.
+If you wnat to use Apple's DVD Player [link to download](https://github.com/fehervaria/DVDDriveSwitcher_macOS/blob/master/DVDPlayerApp.zip)  or any third party application doesn't work give a try to my researches.
 
 After studiing the main idea (modify the DVDPlayback framework), the DVD Drive Switcher and the macOS system structure I find the following way workable. Please read it fully and then do it if you agree with the risks.
 
