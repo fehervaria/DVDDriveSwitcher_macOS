@@ -1,5 +1,8 @@
 
-# This actualy works with the latest Sierra (macOS 10.12.6)
+# UPDATE 2017-10-20
+## Tested on High Sierra (macOS 10.13) - PASSED
+
+# This actualy works with the latest Sierra (macOS 10.12.6) and High Sierra (macOS 10.13)
 
 On OS X systems where the optical drive has been removed to make room for a solid state drive (SSD) forces the user to access the optical drive via a USB/Thunderbolt enclosure. While this works as intended, the native OS X DVDPlayer will *NOT* allow the playing of DVD media (movies) in the out of the box configuration.
 
