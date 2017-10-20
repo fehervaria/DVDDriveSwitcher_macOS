@@ -69,7 +69,7 @@ So, lets do it:
    * in the Terminal:
 
      ```
-     sudo mv /System/Library/Frameworks/DVDPlayback.framework ~/Library/Frameworks/
+     sudo mv /System/Library/Frameworks/DVDPlayback.framework ~/Desktop/
      ```
 
 7. Create and alias (symlink) to the copy of DVDPlayback framework in your Library/Frameworks:
@@ -84,7 +84,7 @@ So, lets do it:
 
 8. Reboot your computer to Recovery mode. Reboot and press and hold Command+R
 
-9. Open the Terminal from the from the Utilities menu and disable the System Integrity Protection
+9. Open the Terminal from the from the Utilities menu and re-enable the System Integrity Protection
 
    ```
    csrutil enable
